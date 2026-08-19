@@ -1,0 +1,1 @@
+print(874//27) # / para division mostrando decimales, // para mostrar solo entero
